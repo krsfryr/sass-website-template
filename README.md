@@ -1,1 +1,1 @@
-# shoelace
+# Minimum Static Sass Website Template
